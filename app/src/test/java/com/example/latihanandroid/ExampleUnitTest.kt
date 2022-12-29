@@ -1,4 +1,4 @@
-package com.example.ptba4
+package com.example.latihanandroid
 
 import org.junit.Test
 

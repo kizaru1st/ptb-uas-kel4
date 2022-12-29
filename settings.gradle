@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "PTBA4"
+rootProject.name = "LatihanAndroid"
 include ':app'

@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">PTBA4</string>
+    <string name="app_name">PTBA</string>
+    <string name="home">HOME</string>
+    <string name="fti_sistem_informasi">FTI - Sistem Informasi</string>
+    <string name="pengajuan_kp">Pengajuan KP</string>
+    <string name="detail_kp">detail kp</string>
+    <string name="informasi_seminar_kp">informasi seminar kp</string>
+    <string name="list_pengajuan_kp">List Pengajuan KP</string>
 </resources>
